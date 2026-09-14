@@ -1,0 +1,5 @@
+post_id,platform,date_checked,hours_after_posting,views,qualified_views,watch_time_seconds,average_view_duration_seconds,completion_rate_percent,likes,comments,shares,saves,new_followers,profile_visits,revenue,likes_per_1000_views,comments_per_1000_views,shares_per_1000_views,saves_per_1000_views,follows_per_1000_views,review_label,notes
+POST-0001,TikTok,,24,,,,,,,,,,,,,,,,,,,
+POST-0002,YouTube Shorts,,24,,,,,,,,,,,,,,,,,,,
+POST-0003,Facebook Reels,,24,,,,,,,,,,,,,,,,,,,
+POST-0004,Instagram Reels,,24,,,,,,,,,,,,,,,,,,,

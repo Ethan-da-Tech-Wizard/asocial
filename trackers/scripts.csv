@@ -1,0 +1,8 @@
+script_id,related_idea_id,script_title,platform_target,hook,estimated_length_seconds,status,source_level,claim_risk,revision_notes
+SCR-0001,IDEA-0001,Leaving Work You Hate,short-form,Nobody tells you this about leaving work you hate,60,approved,Level 1,Low,Ready to record
+SCR-0002,IDEA-0003,Healthcare Work People Do Not Explain,short-form,Here is the part of healthcare work people do not explain,60,approved,Level 1,Medium,Avoid identifiable employer patient or private details
+SCR-0003,IDEA-0004,A Job Can Pay You And Still Keep You Stuck,short-form,A job can pay you and still keep you stuck,60,approved,Level 1,Low,Ready to record
+SCR-0004,IDEA-0007,Tired From Surviving,short-form,Nobody tells you how tired you can be from surviving,60,approved,Level 1,Low,Ready to record
+SCR-0005,IDEA-0006,Social Media Money,short-form,Here is the part they do not explain about social media money,70,needs source check,Level 3,High,Verify current platform rules before posting
+SCR-0006,IDEA-0011,Being Broke Gets More Expensive,short-form,The quiet way being broke gets more expensive,65,approved,Level 2,Medium,Add source only if using statistics
+SCR-0007,IDEA-0012,First 30 Days Recap,short-form,Here is what I learned after 30 days of trying to build income online,60,future,Level 1,Low,Use after real first 30 days
