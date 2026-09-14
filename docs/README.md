@@ -19,6 +19,7 @@ The project is not starting as an app or programming project. It starts as an SD
 - [10 First 30-Day Backlog](10-first-30-day-backlog.md): Initial topics, hooks, and script directions.
 - [11 AI Prompts](11-ai-prompts.md): Reusable prompts for making content with AI support.
 - [12 Senior Developer Analysis](12-senior-developer-analysis.md): Multi-angle senior review of product, growth, data, operations, risk, monetization, and automation gaps.
+- [13 Facebook 90-Day Plan](13-facebook-90-day-plan.md): Facebook-only plan and one-account vs two-account decision.
 
 ## Working Files
 
