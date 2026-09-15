@@ -1,0 +1,5 @@
+post_id,date_posted,page,topic,frame_type,emotional_tone,source_level,claim_risk,source_links,post_format,hook_or_headline,views,comments,shares,saves,new_followers,comments_hidden_or_deleted,civil_discussion_score,review_label,notes
+FBX-0001,,Israel Lens Media Watch,What this Page is and what it will not do,media framing,context,Level 1,Medium,,text,,,,,,,,,,
+FBX-0002,,Palestine Lens Media Watch,What this Page is and what it will not do,media framing,context,Level 1,Medium,,text,,,,,,,,,,
+FBX-0003,,Israel Lens Media Watch,How headlines frame Israeli civilian fear,civilian harm,humanization,Level 2,High,,text/photo,,,,,,,,,,
+FBX-0004,,Palestine Lens Media Watch,How headlines frame Palestinian civilian fear,civilian harm,humanization,Level 2,High,,text/photo,,,,,,,,,,

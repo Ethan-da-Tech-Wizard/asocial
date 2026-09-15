@@ -20,12 +20,14 @@ The project is not starting as an app or programming project. It starts as an SD
 - [11 AI Prompts](11-ai-prompts.md): Reusable prompts for making content with AI support.
 - [12 Senior Developer Analysis](12-senior-developer-analysis.md): Multi-angle senior review of product, growth, data, operations, risk, monetization, and automation gaps.
 - [13 Facebook 90-Day Plan](13-facebook-90-day-plan.md): Facebook-only plan and one-account vs two-account decision.
+- [14 Two-Sided Conflict Media Experiment](14-two-sided-conflict-media-experiment.md): Transparent two-Page Israel/Palestine media-framing experiment with safety and moderation rules.
 
 ## Working Files
 
 - [First 7 Scripts](../content/first-7-scripts.md): Ready-to-record scripts for the first week.
 - [Pre-Post Checklist](../content/pre-post-checklist.md): Quick review before publishing.
 - [Weekly Review Template](../content/weekly-review-template.md): Repeatable review process after every 7 posts.
+- [Conflict Media Moderation Rules](../content/conflict-media-moderation-rules.md): Comment and content rules for Israel/Palestine-related media discussion.
 - [Tracker CSVs](../trackers): Spreadsheet-ready files for ideas, sources, scripts, posts, metrics, lessons, and weekly reviews.
 
 ## Working Mission
